@@ -6,6 +6,15 @@ An interactive and visually rich Tableau dashboard that provides key insights in
 
 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/mahmoud.mohamed2232/viz/Sales-Analytics-Dashboard-Tableau/CustomersDashboard)**
 
+
+---
+
+## 🧰 Tools Used
+
+- **Tableau** – Data visualization and dashboard development  
+- **Microsoft Excel** – Data cleaning and transformation  
+- **GitHub** – Version control and project sharing  
+
 ---
 
 ## 📌 Project Highlights
@@ -21,13 +30,13 @@ An interactive and visually rich Tableau dashboard that provides key insights in
 ## 🖼️ Dashboard Previews
 
 ### 📌 Overview Page
-![Overview](run%20images/overview.png)
+![Overview](images/2.png)
 
 ### 🌍 Regional Analysis
-![Regional Analysis](run%20images/regional-analysis.png)
+![Regional Analysis](images/3.png)
 
 ### 👥 Customer Segmentation
-![Customer Segmentation](run%20images/customer-segmentation.png)
+![Customer Segmentation](images/4.png)
 
 ---
 
