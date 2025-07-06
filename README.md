@@ -1,6 +1,6 @@
 # 📊 Sales Analytics Dashboard - Tableau
 
-![Dashboard Banner](run images/1.png)
+![Dashboard Banner](images/1.png)
 
 An interactive and visually rich Tableau dashboard that provides key insights into sales, profits, customer segmentation, and regional performance. Built with usability and clarity in mind, this dashboard empowers businesses to make data-driven decisions.
 
